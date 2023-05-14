@@ -71,7 +71,7 @@ Each of the 6 lines of inputs *arr[i]* contains *6* space-separated integers *ar
 
 **Constraints**
 
-<img src=”image-2.png”>
+<img src="image-2.png" width="220" height="240"/>
 
 **Output Format**
 
@@ -98,7 +98,7 @@ Print the largest (maximum) hourglass sum found in *arr*.
 
 *arr* contains the following hourglasses:
 
-<img src=”./image-1.png”>
+<img src="image-1.png" />
 
 The hourglass with the maximum sum (*19*) is:
 
